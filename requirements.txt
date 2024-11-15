@@ -1,0 +1,6 @@
+autogen-agentchat==0.2.38
+langchain-openai==0.2.8
+bs4==0.0.2
+feedparser==6.0.11
+flaml==2.2.0
+langchain-groq==0.2.1
